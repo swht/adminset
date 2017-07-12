@@ -65,3 +65,5 @@ FAQ请转到，<a href="https://github.com/guohongze/adminset/wiki/FAQ">常见�
 # 开发者交流
 请加入开发者群，注明来自github
 <img src="https://github.com/guohongze/adminset/blob/master/static/dist/img/qq.png"></img>
+
+https://mp.weixin.qq.com/s?__biz=MzAwNzY4OTgyNA==&mid=2651825204&idx=1&sn=b9d77ffcb1b5e799a6681ecebc2d453a&chksm=8081473bb7f6ce2dbf721c9c79d533fb52d9e6feeb849b8f72272f3129494aa16daf86f33cea&mpshare=1&scene=1&srcid=0712FBrjTpujJa0aqr4moZik#rd
